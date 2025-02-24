@@ -6,7 +6,9 @@ description: Edi - Texteditor FREE herunterladen und kostenlos verwenden, sogar 
 
 <h2 class="mb-4">Dateien</h2>
 
-<markdown-link href="/edi-texteditor-setup-v3.103.exe"><strong>Edi 3.103 vom 23.09.2023</strong></markdown-link> <span class="text-sm text-gray-600">(.NET 4.7.2 vorausgesetzt - normalerweise Bestandteil von Windows)</span>
+<markdown-link href="/edi-texteditor-setup-v3.103.exe"><strong>edi-texteditor-setup-v3.103.exe</strong></markdown-link>
+
+<span class="text-sm text-gray-600">vom 23.09.2023 (.NET 4.7.2 vorausgesetzt - normalerweise Bestandteil von Windows)</span>
 
 <div class="my-10">
   <alert-info>
@@ -30,7 +32,10 @@ Ein Rechner mit dem 32- bzw. 64-Bit Betriebssystem:
 
 Edi basiert auf .NET Framework 4.7.2 was Bestandteil von Windows 10 ist. Das .NET Framework wird als empfohlenes Windows Update angeboten
 
-## Meilensteine
+## Änderungshistorie
+
+#### v.3.103
+- Die Bibliothek für die Serienbrief-Erstellung wurde aktualisiert.
 
 #### v.3.102
 - neu: Durch Einführung von MERGEBARCODE ist die Generieriung von Bar-Codes sowie QR-Codes in PRO möglich.

@@ -40,17 +40,17 @@
 	</Company_Info>
 	<Program_Info>
 		<Program_Name>Edi - Text Editor</Program_Name>
-		<Program_Version>3.95</Program_Version>
+		<Program_Version>3.103</Program_Version>
 		<Program_Type>Freeware</Program_Type>
 		<Program_Release_Status>Minor Update</Program_Release_Status>
 		<Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
-		<Program_Release_Year>2021</Program_Release_Year>
-		<Program_Release_Month>7</Program_Release_Month>
-		<Program_Release_Day>11</Program_Release_Day>
+		<Program_Release_Year>2023</Program_Release_Year>
+		<Program_Release_Month>9</Program_Release_Month>
+		<Program_Release_Day>23</Program_Release_Day>
 		<Program_Cost_Other>0.00</Program_Cost_Other>
 		<Program_Cost_Other_Code>GBP</Program_Cost_Other_Code>
 		<Program_Cost_Dollars>0.00</Program_Cost_Dollars>
-		<Program_Change_Info>Text einer HTML-Nachricht war nicht explizit als UTF-8 kodiert. Im Inhaltverzeichnis wurden die Seitennummer nicht präsentiert.</Program_Change_Info>
+		<Program_Change_Info>Aktualisierung der Bibliotheken für die Serienbrieferstellung.</Program_Change_Info>
 		<Program_Language>German,English</Program_Language>
 		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,WinXP</Program_OS_Support>
 		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
@@ -103,7 +103,7 @@
 			<Video_Link_2_URL/>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://www.edi-texteditor.com/edi-texteditor3.setup.exe</Primary_Download_URL>
+			<Primary_Download_URL>https://www.edi-texteditor.com/edi-texteditor-setup-v3.103.exe</Primary_Download_URL>
 			<Secondary_Download_URL/>
 			<Additional_Download_URL_1/>
 			<Additional_Download_URL_2/>
@@ -204,10 +204,10 @@
 		<Affiliates_Regsoft_Vendor_ID/>
 		<Affiliates_Regsoft_Product_ID/>
 		<Affiliates_Regsoft_Maximum_Commission_Rate/>
-		<Affiliates_ShareIt_Order_Page>https://secure.shareit.com/shareit/checkout.html?PRODUCT[300529916]=1&amp;cartcoupon=1&amp;DELIVERY[300529916]=EML&amp;backlink=http%3A%2F%2Fwww.edi-texteditor.com&amp;js=-1</Affiliates_ShareIt_Order_Page>
-		<Affiliates_ShareIt_Vendor_ID>200079717</Affiliates_ShareIt_Vendor_ID>
-		<Affiliates_ShareIt_Product_ID>300529916</Affiliates_ShareIt_Product_ID>
-		<Affiliates_ShareIt_Maximum_Commission_Rate>40%</Affiliates_ShareIt_Maximum_Commission_Rate>
+		<Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+		<Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+		<Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+		<Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
 		<Affiliates_Shareasale_Order_Page/>
 		<Affiliates_Shareasale_Vendor_ID/>
 		<Affiliates_Shareasale_Product_ID/>

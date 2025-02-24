@@ -6,7 +6,9 @@ description: Download Edi - Texteditor FREE and use it for free - life long, eve
 
 <h2 class="mb-4">Files</h2>
 
-<markdown-link href="/edi-texteditor-setup-v3.103.exe"><strong>Edi 3.103 from Sept 23rd, 2023</strong></markdown-link> <span class="text-sm text-gray-600">(.NET 4.7.2 required, normally included in Windows)</span>
+<markdown-link href="/edi-texteditor-setup-v3.103.exe"><strong>edi-texteditor-setup-v3.103.exe</strong></markdown-link>
+
+<span class="text-sm text-gray-600">from Sept 23rd, 2023 (.NET 4.7.2 required, normally included in Windows)</span>
 
 <div class="my-10">
   <alert-info>
@@ -29,7 +31,10 @@ Computer with 32- or 64-bit operating system:
 
 Edi requires .NET Framework 4.7.2, which is a standard component of Windows 10. The .NET Framework is a recommended Windows Update.
 
-## Milestones
+## Changelog
+
+#### v.3.103
+- The mail merge library was updated.
 
 #### v.3.102
 - new: Bar codes and QR codes can be generated in PRO, due to the MERGEBARCODE field.
