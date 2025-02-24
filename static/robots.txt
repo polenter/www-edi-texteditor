@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /de/support/
+Disallow: /de/impressum/
+Disallow: /de/datenschutz/
+
+Disallow: /en/support/
+Disallow: /en/imprint/
+Disallow: /en/privacy/
+
+Disallow: /support/
+Disallow: /imprint/
+Disallow: /privacy/

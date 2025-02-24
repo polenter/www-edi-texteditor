@@ -1,0 +1,61 @@
+a {
+    @apply text-blue-700;
+}
+
+.cta-button {
+    @apply inline-block px-4 py-2 rounded uppercase cursor-pointer bg-yellow-400 hover:bg-yellow-600 text-black hover:text-gray-100 shadow;
+}
+
+/* main-article */
+.main-article h2,h3,h4,h5 {
+    @apply mt-10;
+}
+
+.main-article h2 {
+    @apply text-3xl;
+}
+
+.main-article h3 {
+    @apply text-2xl;
+}
+
+.main-article h4 {
+    @apply text-xl;
+}
+
+.main-article h5 {
+    @apply text-lg;
+}
+
+.main-article code {
+    @apply text-yellow-600;
+}
+
+.main-article img {
+    @apply my-10;
+}
+
+.main-article p {
+    @apply my-4;
+}
+
+.main-article ul>li, .main-article ol>li{
+    line-height: 2em;
+    @apply ml-4;
+}
+
+.main-article ul>li {
+    list-style-type: disc;
+}
+
+.main-article ol>li {
+    list-style-type: decimal;
+}
+
+.main-article>p:nth-child(1) {
+    @apply mt-10;
+}
+
+.search-input input {
+    width: 15ch;
+  }

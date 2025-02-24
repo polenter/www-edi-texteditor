@@ -1,0 +1,4 @@
+{
+    "NewsServer": "https://news.polenter.com/api/news",
+    "TemplateRepositoryServer": "https://templates0.edi-texteditor.com/"
+}

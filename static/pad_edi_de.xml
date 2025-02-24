@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_EDITOR>DeuPAD 4.0.0.402 (http://www.deupad.org)</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to dissemminate information to anyone interested in their software products.  To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+		<MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Polenter - Software Solutions</Company_Name>
+		<Address_1>Hans-Kalscheuer-Str. 45</Address_1>
+		<Address_2/>
+		<Zip_Postal_Code>51149</Zip_Postal_Code>
+		<City_Town>Köln</City_Town>
+		<Country>Deutschland</Country>
+		<State_Province/>
+		<Company_WebSite_URL>https://www.edi-texteditor.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Pawel</Author_First_Name>
+			<Author_Last_Name>Idzikowski</Author_Last_Name>
+			<Author_Email>support@polenter.com</Author_Email>
+			<Contact_First_Name>Pawel</Contact_First_Name>
+			<Contact_Last_Name>Idzikowski</Contact_Last_Name>
+			<Contact_Email>support@polenter.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<General_Email>support@polenter.com</General_Email>
+			<Support_Email>support@polenter.com</Support_Email>
+			<Sales_Email>support@polenter.com</Sales_Email>
+			<General_Phone>+49220398972010</General_Phone>
+			<Support_Phone/>
+			<Sales_Phone/>
+			<Fax_Phone>+49220398972019</Fax_Phone>
+		</Support_Info>
+		<CompanyStorePage/>
+		<FacebookCompanyPage/>
+		<TwitterCompanyPage/>
+		<LinkedinPage/>
+		<GooglePlusPage/>
+		<PublisherID/>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Edi - Text Editor</Program_Name>
+		<Program_Version>3.95</Program_Version>
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
+		<Program_Category_Class>Business::Office Suites &amp; Tools</Program_Category_Class>
+		<Program_Release_Year>2021</Program_Release_Year>
+		<Program_Release_Month>7</Program_Release_Month>
+		<Program_Release_Day>11</Program_Release_Day>
+		<Program_Cost_Other>0.00</Program_Cost_Other>
+		<Program_Cost_Other_Code>GBP</Program_Cost_Other_Code>
+		<Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+		<Program_Change_Info>Text einer HTML-Nachricht war nicht explizit als UTF-8 kodiert. Im Inhaltverzeichnis wurden die Seitennummer nicht präsentiert.</Program_Change_Info>
+		<Program_Language>German,English</Program_Language>
+		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,WinXP</Program_OS_Support>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_System_Requirements/>
+		<File_Info>
+			<File_Size_Bytes>53113688</File_Size_Bytes>
+			<File_Size_K>51868</File_Size_K>
+			<File_Size_MB>50.65</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Count>0</Expire_Count>
+			<Expire_Other_Info>Edi FREE kann aus Word-, Excel-Datei einen PDF-Serienbrief erstellen und als Email kostenlos senden</Expire_Other_Info>
+			<Expire_Year/>
+			<Expire_Month/>
+			<Expire_Day/>
+		</Expire_Info>
+		<Program_Specific_Category>Business</Program_Specific_Category>
+		<FacebookProductPage/>
+		<GooglePlusProductPage/>
+		<AppID/>
+	</Program_Info>
+	<Program_Descriptions>
+		<German>
+			<Keywords>Serienbrief Seriendruck Serielle Korrespondenz Xlsx Editor Docx Editor</Keywords>
+			<Char_Desc_45>Serienbrief aus xlsx, docx als PDF erstellen</Char_Desc_45>
+			<Char_Desc_80>Edi kann aus Word- und Excel-Dateien einen Serienbrief als PDF erstellen.</Char_Desc_80>
+			<Char_Desc_250>Universelles Werkzug um eine Rechnung, Mahnung, Report oder einen anderen Serienbrief zu erstellen und per E-Mail zu senden. Edi kann aus Word- und Excel-Dateien einen Serienbrief als PDF erstellen und Serienbrief als E-Mail senden.</Char_Desc_250>
+			<Char_Desc_450>Universelles Werkzug um eine Rechnung, Mahnung, Report oder einen anderen Serienbrief zu erstellen und per E-Mail zu senden. Edi kann aus Word- und Excel-Dateien einen Serienbrief als PDF erstellen. Edi verknüpft eine Xlsx- mit einer Docx-Datei und erstellt automatisch die Serienbrief-Felder. Edi kann Serienbrief als mehrere PDF-Dateien speichern.</Char_Desc_450>
+			<Char_Desc_2000>Universelles Werkzug um eine Rechnung, Mahnung, Report oder einen anderen Serienbrief zu erstellen und per E-Mail zu senden. Edi kann aus Word- und Excel-Dateien einen Serienbrief als PDF erstellen. Edi verknüpft eine Xlsx- mit einer Docx-Datei und erstellt automatisch die Serienbrief-Felder. Edi kann Serienbrief als mehrere PDF-Dateien speichern und diese per Email versenden.</Char_Desc_2000>
+		</German>
+		<English>
+			<Keywords>mail merge serial letter xlsx editor docx editor</Keywords>
+			<Char_Desc_45>Mail merge from Word and Excel to PDF.</Char_Desc_45>
+			<Char_Desc_80>Mail Merge from Word, Excel files to PDF and send PDF per email.</Char_Desc_80>
+			<Char_Desc_250>Universal tool to create from Word and Excel template, an invoice, payment reminder, report and other serial letter as PDF and send the serial letter per email. Mail Merge from Word and Excel files to PDF and send PDF per email.</Char_Desc_250>
+			<Char_Desc_450>Universal tool to create from Word and Excel template, an invoice, payment reminder, report and other serial letter as PDF and send the serial letter per email. The easiest way to mail Merge from Word and Excel files to PDF. Edi creates mail merge fields automatically and sends serial letters per email.</Char_Desc_450>
+			<Char_Desc_2000>Universal tool to create from Word and Excel template, an invoice, payment reminder, report and other serial letter as PDF and send the serial letter per email. The easiest way to mail Merge from Word and Excel files to PDF. Edi creates mail merge fields automatically and sends serial letters per email.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>https://www.edi-texteditor.com</Application_Info_URL>
+			<Application_Order_URL/>
+			<Application_Screenshot_URL>https://www.edi-texteditor.com/edi-texteditor.de.png</Application_Screenshot_URL>
+			<Application_Icon_URL>https://www.edi-texteditor.com/edi32x32.png</Application_Icon_URL>
+			<Application_XML_File_URL>https://www.edi-texteditor.com/pad_edi_de.xml</Application_XML_File_URL>
+			<Video_Link_1_URL/>
+			<Video_Link_2_URL/>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>https://www.edi-texteditor.com/edi-texteditor3.setup.exe</Primary_Download_URL>
+			<Secondary_Download_URL/>
+			<Additional_Download_URL_1/>
+			<Additional_Download_URL_2/>
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions/>
+		<EULA/>
+	</Permissions>
+	<DeuPAD>
+		<DeuPAD_Extension_Version>2.00</DeuPAD_Extension_Version>
+		<DeuPAD_Extension_Info>For information on the DeuPAD Extensions please go to http://www.deupad.org</DeuPAD_Extension_Info>
+		<SAVE_Member>N</SAVE_Member>
+		<SAVE_Member_Number/>
+		<Company_Unique_ID>{70DD85F6-4DD0-4BE1-9D6C-CC8BF71FC60C}</Company_Unique_ID>
+		<Save_Prog_Num/>
+		<Program_Unique_ID>{B47943F6-2485-4A13-BFB7-1EBDFABC5D68}</Program_Unique_ID>
+		<Program_Cost_EUR>0.00</Program_Cost_EUR>
+	</DeuPAD>
+	<Affiliates>
+		<Affiliates_FORM>Y</Affiliates_FORM>
+		<Affiliates_VERSION>1.4</Affiliates_VERSION>
+		<Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+		<Affiliates_Information_Page></Affiliates_Information_Page>
+		<Affiliates_Avangate_Order_Page/>
+		<Affiliates_Avangate_Vendor_ID/>
+		<Affiliates_Avangate_Product_ID/>
+		<Affiliates_Avangate_Maximum_Commission_Rate/>
+		<Affiliates_BMTMicro_Order_Page/>
+		<Affiliates_BMTMicro_Vendor_ID/>
+		<Affiliates_BMTMicro_Product_ID/>
+		<Affiliates_BMTMicro_Maximum_Commission_Rate/>
+		<Affiliates_Cleverbridge_Order_Page/>
+		<Affiliates_Cleverbridge_Vendor_ID/>
+		<Affiliates_Cleverbridge_Product_ID/>
+		<Affiliates_Cleverbridge_Maximum_Commission_Rate/>
+		<Affiliates_clixGalore_Order_Page/>
+		<Affiliates_clixGalore_Vendor_ID/>
+		<Affiliates_clixGalore_Product_ID/>
+		<Affiliates_clixGalore_Maximum_Commission_Rate/>
+		<Affiliates_CommissionJunction_Order_Page/>
+		<Affiliates_CommissionJunction_Vendor_ID/>
+		<Affiliates_CommissionJunction_Product_ID/>
+		<Affiliates_CommissionJunction_Maximum_Commission_Rate/>
+		<Affiliates_DigiBuy_Order_Page/>
+		<Affiliates_DigiBuy_Vendor_ID/>
+		<Affiliates_DigiBuy_Product_ID/>
+		<Affiliates_DigiBuy_Maximum_Commission_Rate/>
+		<Affiliates_DigitalCandle_Order_Page/>
+		<Affiliates_DigitalCandle_Vendor_ID/>
+		<Affiliates_DigitalCandle_Product_ID/>
+		<Affiliates_DigitalCandle_Maximum_Commission_Rate/>
+		<Affiliates_Emetrix_Order_Page/>
+		<Affiliates_Emetrix_Vendor_ID/>
+		<Affiliates_Emetrix_Product_ID/>
+		<Affiliates_Emetrix_Maximum_Commission_Rate/>
+		<Affiliates_eSellerate_Order_Page/>
+		<Affiliates_eSellerate_Vendor_ID/>
+		<Affiliates_eSellerate_Product_ID/>
+		<Affiliates_eSellerate_Maximum_Commission_Rate/>
+		<Affiliates_Kagi_Order_Page/>
+		<Affiliates_Kagi_Vendor_ID/>
+		<Affiliates_Kagi_Product_ID/>
+		<Affiliates_Kagi_Maximum_Commission_Rate/>
+		<Affiliates_LinkShare_Order_Page/>
+		<Affiliates_LinkShare_Vendor_ID/>
+		<Affiliates_LinkShare_Product_ID/>
+		<Affiliates_LinkShare_Maximum_Commission_Rate/>
+		<Affiliates_NorthStarSol_Order_Page/>
+		<Affiliates_NorthStarSol_Vendor_ID/>
+		<Affiliates_NorthStarSol_Product_ID/>
+		<Affiliates_NorthStarSol_Maximum_Commission_Rate/>
+		<Affiliates_OneNetworkDirect_Order_Page/>
+		<Affiliates_OneNetworkDirect_Vendor_ID/>
+		<Affiliates_OneNetworkDirect_Product_ID/>
+		<Affiliates_OneNetworkDirect_Maximum_Commission_Rate/>
+		<Affiliates_Order1_Order_Page/>
+		<Affiliates_Order1_Vendor_ID/>
+		<Affiliates_Order1_Product_ID/>
+		<Affiliates_Order1_Maximum_Commission_Rate/>
+		<Affiliates_Osolis_Order_Page/>
+		<Affiliates_Osolis_Vendor_ID/>
+		<Affiliates_Osolis_Product_ID/>
+		<Affiliates_Osolis_Maximum_Commission_Rate/>
+		<Affiliates_Plimus_Order_Page/>
+		<Affiliates_Plimus_Vendor_ID/>
+		<Affiliates_Plimus_Product_ID/>
+		<Affiliates_Plimus_Maximum_Commission_Rate/>
+		<Affiliates_Regnet_Order_Page/>
+		<Affiliates_Regnet_Vendor_ID/>
+		<Affiliates_Regnet_Product_ID/>
+		<Affiliates_Regnet_Maximum_Commission_Rate/>
+		<Affiliates_Regnow_Order_Page/>
+		<Affiliates_Regnow_Vendor_ID/>
+		<Affiliates_Regnow_Product_ID/>
+		<Affiliates_Regnow_Maximum_Commission_Rate/>
+		<Affiliates_Regsoft_Order_Page/>
+		<Affiliates_Regsoft_Vendor_ID/>
+		<Affiliates_Regsoft_Product_ID/>
+		<Affiliates_Regsoft_Maximum_Commission_Rate/>
+		<Affiliates_ShareIt_Order_Page>https://secure.shareit.com/shareit/checkout.html?PRODUCT[300529916]=1&amp;cartcoupon=1&amp;DELIVERY[300529916]=EML&amp;backlink=http%3A%2F%2Fwww.edi-texteditor.com&amp;js=-1</Affiliates_ShareIt_Order_Page>
+		<Affiliates_ShareIt_Vendor_ID>200079717</Affiliates_ShareIt_Vendor_ID>
+		<Affiliates_ShareIt_Product_ID>300529916</Affiliates_ShareIt_Product_ID>
+		<Affiliates_ShareIt_Maximum_Commission_Rate>40%</Affiliates_ShareIt_Maximum_Commission_Rate>
+		<Affiliates_Shareasale_Order_Page/>
+		<Affiliates_Shareasale_Vendor_ID/>
+		<Affiliates_Shareasale_Product_ID/>
+		<Affiliates_Shareasale_Maximum_Commission_Rate/>
+		<Affiliates_SWReg_Order_Page/>
+		<Affiliates_SWReg_Vendor_ID/>
+		<Affiliates_SWReg_Product_ID/>
+		<Affiliates_SWReg_Maximum_Commission_Rate/>
+		<Affiliates_V-Share_Order_Page/>
+		<Affiliates_V-Share_Vendor_ID/>
+		<Affiliates_V-Share_Product_ID/>
+		<Affiliates_V-Share_Maximum_Commission_Rate/>
+		<Affiliates_VFree_Order_Page/>
+		<Affiliates_VFree_Vendor_ID/>
+		<Affiliates_VFree_Product_ID/>
+		<Affiliates_VFree_Maximum_Commission_Rate/>
+		<Affiliates_Yaskifo_Order_Page/>
+		<Affiliates_Yaskifo_Vendor_ID/>
+		<Affiliates_Yaskifo_Product_ID/>
+		<Affiliates_Yaskifo_Maximum_Commission_Rate/>
+	</Affiliates>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number/>
+	</ASP>
+	<NewsFeed>
+		<NewsFeed_Feed_URL/>
+		<NewsFeed_Type/>
+		<NewsFeed_Title/>
+		<NewsFeed_Keywords/>
+		<NewsFeed_Description_70/>
+		<NewsFeed_Description_250/>
+	</NewsFeed>
+	<Press_Release>
+		<Keywords/>
+		<Headline/>
+		<Summary/>
+		<Press_Release/>
+		<Press_Release_Plain/>
+		<Related_URL/>
+	</Press_Release>
+</XML_DIZ_INFO>

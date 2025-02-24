@@ -1,0 +1,6 @@
+syntax: glob
+**/node_modules/
+.nuxt/
+dist/
+# Default ignored files
+.idea/.idea.edi-texteditor-web.src.dir/.idea/workspace.xml
